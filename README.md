@@ -1,5 +1,8 @@
 # ezoom
 
-configurar:
- -banco de dados
- 
+#configurar
+
+admin > application > config > config.php
+
+admin > application > config > database.php
+
